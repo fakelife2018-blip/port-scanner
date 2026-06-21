@@ -15,4 +15,4 @@ python port_scanner.py
 Python, socket programming, file handling, dictionaries
 
 ## Author
-Thomas Samir — AI Engineer in training | Gulf Market target
+Thomas Samir — AI Engineer 
