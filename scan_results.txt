@@ -1,7 +1,0 @@
-Scan Report - 2026-06-21 14:21:42
-Target -127.0.0.1
-Range: 1 - 500
- 
-Port 80 -HTTP
-Port 135 -Windows RPC
-Port 445 -SMB
